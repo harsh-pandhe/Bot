@@ -1,0 +1,11 @@
+# Core dependencies for neural network training
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Optional but recommended
+matplotlib>=3.4.0  # For data visualization
+seaborn>=0.11.0   # For enhanced plots
+
+# Development dependencies (optional)
+jupyter>=1.0.0    # For interactive notebooks
